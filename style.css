@@ -42,3 +42,6 @@ h2 {
     margin-right: auto;
     margin-top: 3%;
 }
+
+@margin screen and(max-width:400px){
+}
